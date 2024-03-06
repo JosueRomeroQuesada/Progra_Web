@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Clients";
+}
+
+<!-- [Insert New Client] -->
+<table id="clients" class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Batch</th>
+            <th>Full Name</th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<script>
+    window.addEventListener("DOMContentLoaded", async (event) => { 
+        const clients = await fetch("https://localhost:44302/api/clients", {
+            "method": "GET",
+            "mode": "cors",
+            "cache": "no-cache",
+            "headers": {
+                "Content-Type": "application/json"
+            }
+        })
+            .then((response) => response.json())
+            .catch((error) => { console.log(error); });
+
+        if (clients) {
+            const tbody = document.querySelector("#clients tbody");
+            for (let index = 0; index < clients.length; index++) { 
+                const client = clients[index];
+                const row = document.createElement("tr");
+                
+                let cell = document.createElement("td");
+                cell.innerText = client.batch;
+                row.appendChild(cell);
+
+                cell = document.createElement("td");
+                cell.innerText = `${client.firstName} ${client.lastName}`;
+                row.appendChild(cell);
+
+                cell = document.createElement("td");
+                cell.innerText = "[Edit] [Delete]";
+                row.appendChild(cell);
+
+                tbody.appendChild(row);
+            }        
+        }
+    });
+</script>

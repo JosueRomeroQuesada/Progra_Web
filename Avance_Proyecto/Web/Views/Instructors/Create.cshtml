@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Instructors";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Instructors</title>
+</head>
+<body>
+    <h1>Create Instructors</h1>
+    <form id="createInstructorsForm">
+        <label for="batch">Batch:</label>
+        <input type="text" id="batch" name="Batch"><br><br>
+
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="FirstName"><br><br>
+
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="LastName"><br><br>
+
+        <label for="birthDate">Birth Date:</label>
+        <input type="date" id="birthDate" name="BirthDate"><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="Email"><br><br>
+
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="text" id="phoneNumber" name="MobileNumber"><br><br>
+
+        <label for="active">Active:</label>
+        <input type="checkbox" id="active" name="Active"><br><br>
+
+        <button type="button" onclick="InstructorsStudent()">Create Student</button>
+    </form>
+
+    <script>
+        async function InstructorsStudent() {
+            const form = document.getElementById("createInstructorsForm");
+            const formData = new FormData(form);
+
+            const newInstructors = {};
+            formData.forEach((value, key) => {
+                newInstructors[key] = value;
+            });
+
+            try {
+                const response = await fetch("https://localhost:44302/api/Instructors", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(newInstructors)
+                });
+
+                if (response.ok) {
+                    console.log("Instructors created successfully");
+                    window.location.href = "/";
+                    // Aquí podrías redirigir a otra página o hacer cualquier otra acción necesaria
+                } else {
+                    console.error("Failed to create Instructors");
+                }
+            } catch (error) {
+                console.error("Error:", error);
+            }
+        }
+    </script>
+</body>
+</html>

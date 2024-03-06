@@ -1,0 +1,79 @@
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 02\Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 03\Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 04\Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 05\Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\jgm\Desktop\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Downloads\Leccion 06 - Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\bin\Debug\net8.0\Domain.dll
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.dll
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Domain\obj\Debug\net8.0\ref\Domain.dll
