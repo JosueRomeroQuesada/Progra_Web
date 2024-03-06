@@ -595,11 +595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Shared\\Shared.csproj",
+      "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Shared\\Shared.csproj",
+      "projectPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-      "outputPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Shared\\obj\\",
+      "outputPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",

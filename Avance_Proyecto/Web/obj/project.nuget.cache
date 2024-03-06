@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ZdQYHfE07IudCcqGpdWF6Gn9De4Tijd2Mcaex/btyoX4vNLff/xu5+pOrKElta+XQ8vzYqktobFQJJHMLH5Kw==",
+  "dgSpecHash": "tWo4k9hd7KlBtmzACHT3Mxn8N8DthFQOO4bBvF33HTJ3efiIHssOu7CECIZVmJd30PAhcZKXBUHyjEe/bmEhww==",
   "success": true,
-  "projectFilePath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\Web.csproj",
+  "projectFilePath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josué\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Josué\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",

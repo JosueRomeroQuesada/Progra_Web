@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vp2mRW8/4pr0GpJepC/bUeO51WtuYVxjjLXPUbXnetTgkJnSU8XBqm/ivOJIALQt8lrUev/CgunD9/ATQ0334Q==",
+  "dgSpecHash": "x9W6UFs1QcadxR/JRHUwEH/g8IL1Gei/0s2XknTPAHa8XAzKo3gKB8pJC+2KLGA5J04pe7TdSE499Kg/rTG7mg==",
   "success": true,
-  "projectFilePath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josué\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Josué\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",

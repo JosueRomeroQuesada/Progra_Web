@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Web\
+build_property.ProjectDir = D:\Visual 2024\Progra_Web\Avance_Proyecto\Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Descargas\Avance_Proyect_progra_av_web\Avance_Proyecto\Avance_Proyecto\Web
+build_property.MSBuildProjectDirectory = D:\Visual 2024\Progra_Web\Avance_Proyecto\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Clients/Create.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Clients/Index.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Home/Index.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Home/Privacy.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Instructors/Create.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Instructors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Instructors/Index.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Instructors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Shared/Error.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/_ViewImports.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/_ViewStart.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Descargas/Avance_Proyect_progra_av_web/Avance_Proyecto/Avance_Proyecto/Web/Views/Shared/_Layout.cshtml]
+[D:/Visual 2024/Progra_Web/Avance_Proyecto/Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

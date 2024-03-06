@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Application\\Application.csproj",
+      "projectPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-      "outputPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Application\\obj\\",
+      "outputPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -707,11 +707,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Domain\\Domain.csproj"
+            "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Domain\\Domain.csproj"
             },
-            "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Shared\\Shared.csproj": {
-              "projectPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Shared\\Shared.csproj"
+            "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Shared\\Shared.csproj"
             }
           }
         }

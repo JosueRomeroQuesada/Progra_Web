@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\Web.csproj": {}
+    "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\Web.csproj": {}
   },
   "projects": {
-    "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\Web.csproj": {
+    "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\Web.csproj",
+        "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\Web.csproj",
+        "projectPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-        "outputPath": "E:\\Descargas\\Avance_Proyect_progra_av_web\\Avance_Proyecto\\Avance_Proyecto\\Web\\obj\\",
+        "outputPath": "D:\\Visual 2024\\Progra_Web\\Avance_Proyecto\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
