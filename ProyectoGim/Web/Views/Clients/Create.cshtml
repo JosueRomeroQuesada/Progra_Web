@@ -1,0 +1,128 @@
+﻿@using Domain.Clients;
+@using Web.Models;
+@model CreateClient
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="mb-3">
+            <label asp-for="@Model.IdCliente" class="form-label">IdCliente No.</label>
+            <input id="idCliente" asp-for="@Model.IdCliente" type="text" class="form-control"/>
+            <span asp-validation-for="@Model.IdCliente" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Nombre" class="form-label">First Name.</label>
+            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control"/>
+            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Apellido" class="form-label">Last Name.</label>
+            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control"/>
+            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Peso" class="form-label">Peso.</label>
+            <input id="peso" asp-for="@Model.Peso" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Peso" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Altura" class="form-label">Altura.</label>
+            <input id="altura" asp-for="@Model.Altura" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Altura" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Preferencias" class="form-label">Preferencias.</label>
+            <input id="preferencias" asp-for="@Model.Preferencias" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Preferencias" class="text-danger"></span>
+        </div>
+
+        @{var partialModel = SaveCancelViewModel.Create(0, "/clients");}
+        <partial name="_SaveCancelButtons" model="partialModel" />
+    </form>
+</div>
+
+<!--[Insert New Client]-->
+
+<!--
+<table id="clients" class="table table-striped table-hover">
+    <thead>
+        <tr class="border-bottom">
+            <th>IdCliente</th>
+            <th>Full Name</th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+
+</table>
+<div>
+    <form action="javascript:void(0);" method="POST" onsubmit="insert_client()">
+        <label>IdCliente</label>
+        <input type="text" id="idCliente" required/>
+
+        <label>First Name</label>
+        <input type="text" id="first_name" required/>
+
+        <label>Last Name</label>
+        <input type="text" id="last_name" required/>
+
+        <label>Email</label>
+        <input type="email" id="email" required/>
+
+        <label>Mobile Number</label>
+        <input type="number" id="mobile" required/>
+
+        <input type="submit" value="Agregar">
+
+    </form>
+
+</div>
+
+-->
+
+<!--
+<script>
+
+    const uri = 'https://localhost:44302/api/clients';
+
+    async function insert_client() {
+        const addIdClienteTextbox = document.getElementById('idCliente');
+        const addNombreTextbox = document.getElementById('first_name');
+        const addApellidoTextbox = document.getElementById('last_name');
+        const addEmailTextbox = document.getElementById('email');
+        const addMobileTextbox = document.getElementById('mobile');
+
+        const client = {
+            idCliente: addIdClienteTextbox.value.trim(),
+            nombre: addNombreTextbox.value.trim(),
+            apellido: addApellidoTextbox.value.trim(),
+            email: addEmailTextbox.value.trim(),
+            mobileNumber: addMobileTextbox.value.trim()
+        };
+
+        console.log(client);
+        fetch(uri, {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(client)
+        })
+            .then(response => response.json())
+            .then(() => {
+              window.location.href = "/Clients";
+            })
+            .catch(error => console.error('No se pudo agregar el estudiante', error));
+    }
+
+</script>
+
+-->

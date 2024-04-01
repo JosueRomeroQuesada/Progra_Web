@@ -1,0 +1,55 @@
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Application.dll
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Shared.dll
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\AMCG_\source\repos\Ufide\Application\bin\Debug\net8.0\Shared.pdb
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.dll
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\AMCG_\source\repos\Ufide\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Application.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Shared.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Shared.pdb
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\User\source\repos\Pruebas Progra\Ufide\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.dll
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.pdb
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Application.deps.json
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Application.dll
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Application.pdb
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Domain.dll
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Shared.dll
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Domain.pdb
+E:\Descargas\AvancePrograWeb\Ufide\Application\bin\Debug\net8.0\Shared.pdb
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+E:\Descargas\AvancePrograWeb\Ufide\Application\obj\Debug\net8.0\ref\Application.dll

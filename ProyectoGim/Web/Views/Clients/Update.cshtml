@@ -1,0 +1,43 @@
+﻿@using Domain.Clients;
+@using Web.Models;
+@model UpdateClient
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container">
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="@Model.Id" />
+        <div class="mb-3">
+            <label asp-for="@Model.Nombre" class="form-label">First Name.</label>
+            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Apellido" class="form-label">Last Name.</label>
+            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
+            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Peso" class="form-label">Peso.</label>
+            <input id="peso" asp-for="@Model.Peso" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Peso" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Altura" class="form-label">Altura.</label>
+            <input id="altura" asp-for="@Model.Altura" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Altura" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.Preferencias" class="form-label">Preferencias.</label>
+            <input id="preferencias" asp-for="@Model.Preferencias" type="date" class="form-control" />
+            <span asp-validation-for="@Model.Preferencias" class="text-danger"></span>
+        </div>
+        @{
+            var partialModel = SaveCancelViewModel.Create(Model.Id, "/clients");
+        }
+        <partial name="_SaveCancelButtons" model="partialModel" />
+    </form>
+</div>
