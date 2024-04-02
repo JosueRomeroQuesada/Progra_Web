@@ -68,13 +68,13 @@ namespace Domain.Clients
         public string Apellido { get; private set; }
 
         [Required(AllowEmptyStrings = false)]
-        [StringLength(5, MinimumLength = 2)]
+        [StringLength(50, MinimumLength = 2)]
         [JsonInclude]
         [JsonPropertyName("peso")]
         public string Peso { get; private set; }
 
         [Required(AllowEmptyStrings = false)]
-        [StringLength(5, MinimumLength = 3)]
+        [StringLength(40, MinimumLength = 3)]
         [JsonInclude]
         [JsonPropertyName("altura")]
         public string Altura { get; private set; }

@@ -1,5 +1,6 @@
 ﻿using Domain.Instructors;
 using Domain.Clients;
+using Domain.Machines;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,8 @@ namespace Application.Contexts
         DbSet<Client> Clients { get; set; }
 
         DbSet<Instructor> Instructors { get; set; }
+
+        DbSet<Machine> Machines { get; set; }
 
         void Save();
     }

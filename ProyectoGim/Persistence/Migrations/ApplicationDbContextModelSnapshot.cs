@@ -33,8 +33,8 @@ namespace Persistence.Migrations
 
                     b.Property<string>("Altura")
                         .IsRequired()
-                        .HasMaxLength(5)
-                        .HasColumnType("nvarchar(5)")
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
                         .HasAnnotation("Relational:JsonPropertyName", "altura");
 
                     b.Property<string>("Apellido")
@@ -57,8 +57,8 @@ namespace Persistence.Migrations
 
                     b.Property<string>("Peso")
                         .IsRequired()
-                        .HasMaxLength(5)
-                        .HasColumnType("nvarchar(5)")
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
                         .HasAnnotation("Relational:JsonPropertyName", "peso");
 
                     b.Property<string>("Preferencias")
@@ -115,6 +115,38 @@ namespace Persistence.Migrations
                     b.ToTable("Instructors");
 
                     b.HasAnnotation("Relational:JsonPropertyName", "instructors");
+                });
+
+            modelBuilder.Entity("Domain.Machines.Machine", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("Relational:JsonPropertyName", "id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Codigo")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)")
+                        .HasAnnotation("Relational:JsonPropertyName", "codigo");
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "descripcion");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "nombre");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Machines");
                 });
 
             modelBuilder.Entity("Domain.Instructors.Instructor", b =>

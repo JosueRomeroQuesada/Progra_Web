@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Clients;
 using FluentValidation;
+using Application.Machines;
+using Application.Instructors;
 
 namespace Application
 {
@@ -20,6 +22,11 @@ namespace Application
             services.AddScoped<IValidator<CreateClient>, CreateClientValidator>();
             services.AddScoped<IValidator<UpdateClient>, UpdateClientValidator>();
             services.AddScoped<IClientService, ClientService>();
+            services.AddScoped<IMachineService, MachineService>();
+            services.AddScoped<IInstructorService, InstructorService>();
+
+
+
 
             return services;
         }
