@@ -47,3 +47,21 @@ E:\Descargas\AvancePrograWeb\Ufide\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\Descargas\AvancePrograWeb\Ufide\Domain\obj\Debug\net8.0\Domain.pdb
 E:\Descargas\AvancePrograWeb\Ufide\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 E:\Descargas\AvancePrograWeb\Ufide\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.CopyComplete
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\ref\Domain.dll

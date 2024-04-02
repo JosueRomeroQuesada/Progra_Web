@@ -19,12 +19,18 @@ namespace Persistence.Repositories
             _entities = _context.Set<T>();
         }
 
-        public List<T> GetAll()
+        public List<T> GetAll(params Expression<Func<T, object>>[] includes)
         {
+            IQueryable<T> query = _entities;
+            if (includes.Any()) 
+            {
+                query = includes.Aggregate
+                    (query, (current, include) => current.Include(include));
+            }
             return _entities.ToList();
         }
 
-        public T Get(Expression<Func<T, bool>> predicate)
+        public T Get(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includes)
         {
             IQueryable<T> query = _entities;
             query = query.Where(predicate);

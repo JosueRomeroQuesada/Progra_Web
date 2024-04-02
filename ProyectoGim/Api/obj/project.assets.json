@@ -4606,11 +4606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Api\\Api.csproj",
+      "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Api\\Api.csproj",
+      "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-      "outputPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Api\\obj\\",
+      "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4627,17 +4627,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Application\\Application.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Application\\Application.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
             },
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
             },
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Persistence\\Persistence.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
             },
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
             }
           }
         }

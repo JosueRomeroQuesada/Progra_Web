@@ -4119,11 +4119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Persistence\\Persistence.csproj",
+      "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-      "outputPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Persistence\\obj\\",
+      "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4140,14 +4140,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Application\\Application.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Application\\Application.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
             },
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
             },
-            "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj": {
-              "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj"
+            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
             }
           }
         }

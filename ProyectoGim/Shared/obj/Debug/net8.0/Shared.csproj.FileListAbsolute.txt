@@ -37,3 +37,18 @@ E:\Descargas\AvancePrograWeb\Ufide\Shared\obj\Debug\net8.0\refint\Shared.dll
 E:\Descargas\AvancePrograWeb\Ufide\Shared\obj\Debug\net8.0\Shared.pdb
 E:\Descargas\AvancePrograWeb\Ufide\Shared\obj\Debug\net8.0\Shared.genruntimeconfig.cache
 E:\Descargas\AvancePrograWeb\Ufide\Shared\obj\Debug\net8.0\ref\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\bin\Debug\net8.0\Shared.runtimeconfig.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\bin\Debug\net8.0\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\bin\Debug\net8.0\Shared.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\Shared.genruntimeconfig.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Shared\obj\Debug\net8.0\ref\Shared.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q5PyVKAXqX+xkzFf9mWNpN7iJGLq5iM/3IITSdn8W/SDHjye6eBotmUQuPyeYDGZKJkcVLQvu3b513PiLxCtA==",
+  "dgSpecHash": "whZYiNIJhPsWhjxZwHEafOz4qPfRkqSpa1+Ld9587uySuxyQ/8Ql9sZhJMw2QeVRZPJa/5xz10or/3oiS25Z+Q==",
   "success": true,
-  "projectFilePath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josué\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Josué\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

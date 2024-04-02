@@ -66,8 +66,9 @@ namespace Domain.Instructors
         [JsonInclude]
         [JsonPropertyName("apellido")]
         public string Apellido { get; private set; }
-
+        /*
         [JsonIgnore]
         public List<Course> Courses { get; private set; } 
+        */
     }
 }

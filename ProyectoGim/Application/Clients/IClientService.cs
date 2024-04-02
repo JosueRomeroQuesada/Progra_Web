@@ -11,11 +11,11 @@ namespace Application.Clients
 {
     public interface IClientService
     {
-        Result<IList<Client>> List();
+        Result<IList<Client>> List(bool includeInstructors = false);
 
-        Result<Client> Get(string idCliente);
+        Result<Client> Get(string idCliente, bool includeInstructors = false);
 
-        Result<Client> Get(int id);
+        Result<Client> Get(int id, bool includeInstructors = false);
 
         Result Create(CreateClient createClient);
 

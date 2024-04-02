@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj": {}
+    "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj": {
+    "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-        "outputPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Domain\\obj\\",
+        "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj": {
-                "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj"
+              "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj": {
+    "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\Shared.csproj",
+        "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-        "outputPath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Shared\\obj\\",
+        "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",

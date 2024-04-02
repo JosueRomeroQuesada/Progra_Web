@@ -59,3 +59,25 @@ E:\Descargas\AvancePrograWeb\Ufide\Persistence\bin\Debug\net8.0\Shared.pdb
 E:\Descargas\AvancePrograWeb\Ufide\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
 E:\Descargas\AvancePrograWeb\Ufide\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
 E:\Descargas\AvancePrograWeb\Ufide\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Application.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Shared.dll
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Application.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\Visual 2024\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\ref\Persistence.dll

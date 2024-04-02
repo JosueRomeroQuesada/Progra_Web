@@ -1,4 +1,5 @@
 ﻿using Domain.Courses;
+using Domain.Instructors;
 using Shared;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -100,7 +101,8 @@ namespace Domain.Clients
         [JsonPropertyName("preferencias")]
         public string Preferencias { get; private set;}*/
 
-        [JsonIgnore]
-        public List<Course> Courses { get; private set; } //de muchos a muchos  
+        [JsonInclude]
+        [JsonPropertyName("instructors")]
+        public List<Instructor> Instructors { get; private set; } //de muchos a muchos  
     }
 }

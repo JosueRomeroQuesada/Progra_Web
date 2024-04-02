@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7LVGttnG5AH3uUOURdBOxrkQ74KTVXnTdG+EkW2Q75DW1yfehWNm/KLh64oCuC2DCGTs7TFOoAy1CqW0fv6+1A==",
+  "dgSpecHash": "v/EwWPEwNdho1HXZ7WX24mSrEHFCEaZ85heyTJ4yeELUBatbuKascw8x+E5JE4u6LQzLKUdLEgyP8GYaUpLOrw==",
   "success": true,
-  "projectFilePath": "E:\\Descargas\\AvancePrograWeb\\Ufide\\Api\\Api.csproj",
+  "projectFilePath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josué\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Josué\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",

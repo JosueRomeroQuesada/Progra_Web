@@ -9,7 +9,7 @@ namespace Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    
+
     public class ClientsController : ControllerBase
     {
         private IClientService _service;
@@ -23,6 +23,19 @@ namespace Api.Controllers
         public IActionResult List()
         {
             var result = _service.List();
+
+            if (result.IsSuccess)
+            {
+                return Ok(result.Value);
+            }
+
+            return StatusCode(StatusCodes.Status500InternalServerError, null);
+        }
+
+        [HttpGet("withinstructors")]
+        public IActionResult ListWithInstructors()
+        {
+            var result = _service.List(true);
 
             if (result.IsSuccess)
             {
@@ -54,7 +67,7 @@ namespace Api.Controllers
         public IActionResult Create([FromBody] CreateClient client)
         {
             var result = _service.Create(client);
-            
+
             if (result.IsSuccess)
             {
                 //return Created();

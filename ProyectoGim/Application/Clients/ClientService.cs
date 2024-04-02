@@ -18,33 +18,49 @@ namespace Application.Clients
             _mapper = mapper;
         }
 
-        public Result<IList<Client>> List()
+        public Result<IList<Client>> List(bool includeInstructors = false)
         {
-            return Result.Success<IList<Client>>(_repository.GetAll());
+
+            return
+                includeInstructors
+                    ? Result.Success<IList<Client>>(_repository.GetAll(i => i.Instructors))
+                    : Result.Success<IList<Client>>(_repository.GetAll());
         }
 
-        public Result<Client> Get(string idCliente)
+        public Result<Client> Get(string idCliente, bool includeInstructors = false)
         {
-            var client = _repository.Get(s=>s.IdCliente == idCliente);
-            
+            var client =
+                includeInstructors
+                    ? _repository.Get(s => s.IdCliente == idCliente, i => i.Instructors)
+                    : _repository.Get(s => s.IdCliente == idCliente);
+
+
+
+
             if (client == null)
             {
                 return Result.Failure<Client>(ClientErrors.NotFound(idCliente));
             }
-                return Result.Success(client);
-            }
-        
-        public Result<Client> Get(int id)
+            return Result.Success(client);
+        }
+
+        public Result<Client> Get(int id, bool includeInstructors = false)
         {
-            var client = _repository.Get(s => s.Id == id);
-            
+            var client =
+                includeInstructors
+                    ? _repository.Get(s => s.Id == id, i => i.Instructors)
+                    : _repository.Get(s => s.Id == id);
+
+
+
+
             if (client is null)
             {
                 return Result.Failure<Client>(ClientErrors.NotFound());
             }
 
-                return Result.Success(client);
-            }
+            return Result.Success(client);
+        }
 
         public Result Create(CreateClient createClient)
         {
@@ -84,4 +100,3 @@ namespace Application.Clients
         }
     }
 }
-
