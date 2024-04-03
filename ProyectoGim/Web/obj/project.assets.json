@@ -4136,24 +4136,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johan Navarro\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\Johan Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Johan Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4161,24 +4156,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
             },
-            "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
             },
-            "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
             }
           }
         }

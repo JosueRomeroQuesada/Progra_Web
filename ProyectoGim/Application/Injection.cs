@@ -31,7 +31,8 @@ namespace Application
             services.AddScoped<IClientService, ClientService>();
             services.AddScoped<IMachineService, MachineService>();
             services.AddScoped<IInstructorService, InstructorService>();
-
+            services.AddScoped<IEjercicioService, EjercicioService>();
+            services.AddScoped<IWeekdayService, WeekdayService>();
 
 
             services.AddAutoMapper(typeof(RutinaProfile));

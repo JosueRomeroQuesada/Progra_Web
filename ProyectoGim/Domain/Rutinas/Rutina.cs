@@ -1,4 +1,6 @@
 ﻿using Domain.Rutinas;
+using Domain.Weekdays;
+using Domain.Ejercicios;
 using Domain.Instructors;
 using System;
 using System.Collections.Generic;
@@ -78,23 +80,14 @@ namespace Domain.Rutinas
         [JsonPropertyName("peso")]
         public string Peso { get; private set; }
 
-
-
-        /*¿¿¿FALTA LIST PARA RUTINA EN CLIENT???*/
-
-
-        /*REVISAR COMO SE LLAMAN LAS LISTAS DE EJERCICIO Y DIA*/
-        /*using Domain.Ejercios;
-         * using Domain.Dias*/
-        /*
         [JsonInclude]
         [JsonPropertyName("ejercicios")]
         public List<Ejercicio> Ejercicios { get; private set; } 
 
         [JsonInclude]
         [JsonPropertyName("dias")]
-        public List<Dia> dias { get; private set; } 
-        */
+        public List<Weekday> dias { get; private set; } 
+        
     }
 }
 

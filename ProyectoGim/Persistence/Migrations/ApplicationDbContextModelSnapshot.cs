@@ -72,6 +72,45 @@ namespace Persistence.Migrations
                     b.ToTable("Clients");
                 });
 
+            modelBuilder.Entity("Domain.Ejercicios.Ejercicio", b =>
+                {
+                    b.Property<int>("IdEjercicio")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("Relational:JsonPropertyName", "idEjercicio");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdEjercicio"));
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
+                        .HasAnnotation("Relational:JsonPropertyName", "descripcion");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "nombre");
+
+                    b.Property<int?>("RutinaId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Zona")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "zona");
+
+                    b.HasKey("IdEjercicio");
+
+                    b.HasIndex("RutinaId");
+
+                    b.ToTable("Ejercicio");
+
+                    b.HasAnnotation("Relational:JsonPropertyName", "ejercicios");
+                });
+
             modelBuilder.Entity("Domain.Instructors.Instructor", b =>
                 {
                     b.Property<int>("Id")
@@ -138,6 +177,9 @@ namespace Persistence.Migrations
                         .HasColumnType("nvarchar(40)")
                         .HasAnnotation("Relational:JsonPropertyName", "descripcion");
 
+                    b.Property<int?>("EjercicioIdEjercicio")
+                        .HasColumnType("int");
+
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(40)
@@ -146,7 +188,95 @@ namespace Persistence.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("EjercicioIdEjercicio");
+
                     b.ToTable("Machines");
+
+                    b.HasAnnotation("Relational:JsonPropertyName", "machines");
+                });
+
+            modelBuilder.Entity("Domain.Rutinas.Rutina", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("Relational:JsonPropertyName", "id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)")
+                        .HasAnnotation("Relational:JsonPropertyName", "descripcion");
+
+                    b.Property<string>("IdRutina")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)")
+                        .HasAnnotation("Relational:JsonPropertyName", "idRutina");
+
+                    b.Property<string>("Peso")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)")
+                        .HasAnnotation("Relational:JsonPropertyName", "peso");
+
+                    b.Property<string>("Repeticiones")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "repeticiones");
+
+                    b.Property<string>("Series")
+                        .IsRequired()
+                        .HasMaxLength(40)
+                        .HasColumnType("nvarchar(40)")
+                        .HasAnnotation("Relational:JsonPropertyName", "series");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Rutinas");
+                });
+
+            modelBuilder.Entity("Domain.Weekdays.Weekday", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("Relational:JsonPropertyName", "id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Dia")
+                        .IsRequired()
+                        .HasMaxLength(9)
+                        .HasColumnType("nvarchar(9)")
+                        .HasAnnotation("Relational:JsonPropertyName", "dia");
+
+                    b.Property<string>("IdDiaSemana")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("nvarchar(10)")
+                        .HasAnnotation("Relational:JsonPropertyName", "idEntrenador");
+
+                    b.Property<int?>("RutinaId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("RutinaId");
+
+                    b.ToTable("Weekday");
+
+                    b.HasAnnotation("Relational:JsonPropertyName", "dias");
+                });
+
+            modelBuilder.Entity("Domain.Ejercicios.Ejercicio", b =>
+                {
+                    b.HasOne("Domain.Rutinas.Rutina", null)
+                        .WithMany("Ejercicios")
+                        .HasForeignKey("RutinaId");
                 });
 
             modelBuilder.Entity("Domain.Instructors.Instructor", b =>
@@ -156,9 +286,35 @@ namespace Persistence.Migrations
                         .HasForeignKey("ClientId");
                 });
 
+            modelBuilder.Entity("Domain.Machines.Machine", b =>
+                {
+                    b.HasOne("Domain.Ejercicios.Ejercicio", null)
+                        .WithMany("Machines")
+                        .HasForeignKey("EjercicioIdEjercicio");
+                });
+
+            modelBuilder.Entity("Domain.Weekdays.Weekday", b =>
+                {
+                    b.HasOne("Domain.Rutinas.Rutina", null)
+                        .WithMany("dias")
+                        .HasForeignKey("RutinaId");
+                });
+
             modelBuilder.Entity("Domain.Clients.Client", b =>
                 {
                     b.Navigation("Instructors");
+                });
+
+            modelBuilder.Entity("Domain.Ejercicios.Ejercicio", b =>
+                {
+                    b.Navigation("Machines");
+                });
+
+            modelBuilder.Entity("Domain.Rutinas.Rutina", b =>
+                {
+                    b.Navigation("Ejercicios");
+
+                    b.Navigation("dias");
                 });
 #pragma warning restore 612, 618
         }
