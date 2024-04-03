@@ -28,6 +28,9 @@ using Persistence.Instructors;
 using Persistence.Rutinas;
 using Application.Rutinas;
 using Domain.Rutinas;
+using Application.Ejercicios;
+using Persistence.Ejercicios;
+using Domain.Ejercicios;
 
 namespace Persistence
 {
@@ -47,6 +50,7 @@ namespace Persistence
             services.AddRepository<Machine, IMachineRepository, MachineRepository>();
             services.AddRepository<Instructor, IInstructorRepository, InstructorRepository>();
             services.AddRepository<Rutina, IRutinaRepository, RutinaRepository>();
+            services.AddRepository<Ejercicio, IEjercicioRepository, EjercicioRepository>();
 
             return services;
         }

@@ -59,7 +59,7 @@ namespace Application.Rutinas
         public async Task<Result<Rutina>> Get(string idRutina)
         {
             var content = await _rutina.GetStringAsync
-                (_endpoints.Where(w => w.Name.Equals("Rutinas", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + idRutina;
+                (_endpoints.Where(w => w.Name.Equals("Rutinas", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + idRutina);
             var client = JsonSerializer.Deserialize<Rutina>(content);
 
             return Result.Success(client);

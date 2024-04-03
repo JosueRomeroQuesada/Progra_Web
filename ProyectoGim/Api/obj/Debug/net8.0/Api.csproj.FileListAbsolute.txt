@@ -740,3 +740,14 @@ C:\Users\diego\source\repos\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\refint\A
 C:\Users\diego\source\repos\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\diego\source\repos\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\diego\source\repos\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.dll
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Api\obj\Debug\net8.0\Api.pdb

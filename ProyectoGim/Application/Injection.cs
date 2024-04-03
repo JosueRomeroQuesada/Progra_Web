@@ -1,4 +1,6 @@
 ﻿using Application.Clients;
+using Application.Ejercicios;
+using Domain.Ejercicios;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -35,7 +37,9 @@ namespace Application
             services.AddScoped<IValidator<UpdateRutina>, UpdateRutinaValidator>();
             services.AddScoped<IRutinaService, RutinaService>();
 
-
+            services.AddAutoMapper(typeof(EjercicioProfile));
+            services.AddScoped<IValidator<CreateEjercicio>, CreateEjercicioValidator>();
+            services.AddScoped<IValidator<UpdateEjercicio>, UpdateEjercicioValidator>();
 
 
             return services;

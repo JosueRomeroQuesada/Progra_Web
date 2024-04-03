@@ -17,7 +17,7 @@ var endpoints = builder.Configuration.GetSection
 builder.Services.Configure<List<EndpointConfiguration>>
 (options => { options.AddRange(endpoints); });
 
-builder.Services.AddHttpClient<IClientClient, ClientClient>((provider, client) =>
+builder.Services.AddHttpClient<IEjercicioEjercicio, EjercicioEjercicio>((provider, client) =>
 {
 
     var endpoint = endpoints.Where

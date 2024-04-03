@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\application\\ejercicios\\updateejerciciovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\ejercicios\\updateejerciciovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAAED8B-FD45-45AD-9423-6C5C89E6F199}|Api\\Api.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\api\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAAED8B-FD45-45AD-9423-6C5C89E6F199}|Api\\Api.csproj|solutionrelative:api\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\application\\ejercicios\\createejerciciovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\ejercicios\\createejerciciovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\domain\\rutinas\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\rutinas\\rutina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\persistence\\ejercicios\\ejerciciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|solutionrelative:persistence\\ejercicios\\ejerciciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\application\\rutinas\\rutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\rutinas\\rutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\persistence\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|solutionrelative:persistence\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\application\\ejercicios\\ejercicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\ejercicios\\ejercicioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\domain\\ejercicios\\createejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\createejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\domain\\ejercicios\\updateejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\updateejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\domain\\ejercicios\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\documents\\progra web\\proyecto\\progra_web\\proyectogim\\domain\\ejercicios\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateEjercicioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\UpdateEjercicioValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Ejercicios\\UpdateEjercicioValidator.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\UpdateEjercicioValidator.cs",
+              "RelativeToolTip": "Application\\Ejercicios\\UpdateEjercicioValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:12:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEjercicioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\CreateEjercicioValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Ejercicios\\CreateEjercicioValidator.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\CreateEjercicioValidator.cs",
+              "RelativeToolTip": "Application\\Ejercicios\\CreateEjercicioValidator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:09:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rutina.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Rutinas\\Rutina.cs",
+              "RelativeDocumentMoniker": "Domain\\Rutinas\\Rutina.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Rutinas\\Rutina.cs",
+              "RelativeToolTip": "Domain\\Rutinas\\Rutina.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:04:46.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EjercicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "RelativeToolTip": "Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:04:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RutinaClient.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaClient.cs",
+              "RelativeDocumentMoniker": "Application\\Rutinas\\RutinaClient.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaClient.cs",
+              "RelativeToolTip": "Application\\Rutinas\\RutinaClient.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAjwD0AAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:03:55.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Injection.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Persistence\\Injection.cs",
+              "RelativeDocumentMoniker": "Persistence\\Injection.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Persistence\\Injection.cs",
+              "RelativeToolTip": "Persistence\\Injection.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:03:13.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjerciciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Api\\Controllers\\EjerciciosController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\EjerciciosController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Api\\Controllers\\EjerciciosController.cs",
+              "RelativeToolTip": "Api\\Controllers\\EjerciciosController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:28:53.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEjercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\CreateEjercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\CreateEjercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\CreateEjercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\CreateEjercicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:53:45.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEjercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:53:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EjercicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\EjercicioDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\EjercicioDTO.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\EjercicioDTO.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\EjercicioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:53:16.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EjercicioService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\EjercicioService.cs",
+              "RelativeDocumentMoniker": "Application\\Ejercicios\\EjercicioService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Application\\Ejercicios\\EjercicioService.cs",
+              "RelativeToolTip": "Application\\Ejercicios\\EjercicioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:40:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Documents\\Progra Web\\Proyecto\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\Ejercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\Ejercicio.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:39:25.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:296:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
