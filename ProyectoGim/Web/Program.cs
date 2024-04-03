@@ -17,9 +17,8 @@ var endpoints = builder.Configuration.GetSection
 builder.Services.Configure<List<EndpointConfiguration>>
 (options => { options.AddRange(endpoints); });
 
-builder.Services.AddHttpClient<IEjercicioEjercicio, EjercicioEjercicio>((provider, client) =>
+builder.Services.AddHttpClient<IClientClient, ClientClient>((provider, client) =>
 {
-
     var endpoint = endpoints.Where
     (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
     client.BaseAddress = new Uri(endpoint.Uri);

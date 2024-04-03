@@ -27,7 +27,7 @@ namespace Application.Rutinas
             
             if (includeDia && includeEjercicio)
             {
-                return Result.Success<IList<Rutina>>(_repository.GetAll(r => r.dias.Select(d => d.Ejercicios)));
+                return Result.Success<IList<Rutina>>(_repository.GetAll(r => r.dias, d => d.Ejercicios));
             }
             else if (includeDia && !includeEjercicio)
             {
@@ -48,7 +48,7 @@ namespace Application.Rutinas
         {
             if (includeDia || includeEjercicio)
             {
-                var rutina = _repository.Get(r => r.IdRutina == idRutina, r => includeDia ? r.dias.Select(d => d.Ejercicios) : null);
+                var rutina = _repository.Get(r => r.IdRutina == idRutina, r => includeDia ? r.dias : null);
 
                 if (rutina == null)
                 {
@@ -75,7 +75,7 @@ namespace Application.Rutinas
         {
             if (includeDia || includeEjercicio)
             {
-                var rutina = _repository.Get(r => r.Id == id, r => includeDia ? r.dias.Select(d => d.Ejercicios) : null);
+                var rutina = _repository.Get(r => r.Id == id, r => includeDia ? r.dias : null);
 
                 if (rutina == null)
                 {
