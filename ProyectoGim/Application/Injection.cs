@@ -14,6 +14,8 @@ using Application.Machines;
 using Application.Instructors;
 using Application.Rutinas;
 using Domain.Rutinas;
+using Application.Weekdays;
+using Domain.Weekdays;
 
 namespace Application
 {
@@ -41,8 +43,12 @@ namespace Application
             services.AddScoped<IValidator<CreateEjercicio>, CreateEjercicioValidator>();
             services.AddScoped<IValidator<UpdateEjercicio>, UpdateEjercicioValidator>();
 
+			services.AddAutoMapper(typeof(WeekdayProfile));
+			services.AddScoped<IValidator<CreateWeekday>, CreateWeekdayValidator>();
+			services.AddScoped<IValidator<UpdateWeekday>, UpdateWeekdayValidator>();
 
-            return services;
+
+			return services;
         }
     }
 }

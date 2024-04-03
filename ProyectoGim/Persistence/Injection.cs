@@ -31,6 +31,9 @@ using Domain.Rutinas;
 using Application.Ejercicios;
 using Persistence.Ejercicios;
 using Domain.Ejercicios;
+using Application.Weekdays;
+using Domain.Weekdays;
+using Persistence.Weekdays;
 
 namespace Persistence
 {
@@ -51,8 +54,9 @@ namespace Persistence
             services.AddRepository<Instructor, IInstructorRepository, InstructorRepository>();
             services.AddRepository<Rutina, IRutinaRepository, RutinaRepository>();
             services.AddRepository<Ejercicio, IEjercicioRepository, EjercicioRepository>();
+			services.AddRepository<Weekday, IWeekdayRepository, WeekdayRepository>();
 
-            return services;
+			return services;
         }
     }
 }

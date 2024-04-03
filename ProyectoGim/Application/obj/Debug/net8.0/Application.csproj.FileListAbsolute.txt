@@ -102,3 +102,12 @@ C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Application
 C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.dll
 C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\André\Documents\Progra Web\Proyecto\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.pdb
