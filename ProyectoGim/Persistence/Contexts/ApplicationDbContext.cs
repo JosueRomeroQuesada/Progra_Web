@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Rutinas;
 
 
 namespace Persistence.Contexts
@@ -25,6 +26,8 @@ namespace Persistence.Contexts
         public DbSet<Instructor> Instructors { get; set; }
 
         public DbSet<Machine> Machines { get; set; }
+
+        public DbSet<Rutina> Rutinas { get; set; }
         public void Save()
         {
             this.SaveChanges();

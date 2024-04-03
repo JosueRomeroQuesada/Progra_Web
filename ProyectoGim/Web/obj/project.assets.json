@@ -4136,19 +4136,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Josué\\.nuget\\packages\\": {}
+    "C:\\Users\\diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Web\\obj\\",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4162,17 +4162,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
-              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
             },
-            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
             },
-            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
             },
-            "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+            "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
             }
           }
         }
