@@ -25,6 +25,10 @@ using Domain.Instructors;
 
 using Persistence.Instructors;
 
+using Persistence.Rutinas;
+using Application.Rutinas;
+using Domain.Rutinas;
+
 namespace Persistence
 {
     public static class Injection
@@ -42,6 +46,7 @@ namespace Persistence
             services.AddRepository<Course, ICourseRepository, CourseRepository>();
             services.AddRepository<Machine, IMachineRepository, MachineRepository>();
             services.AddRepository<Instructor, IInstructorRepository, InstructorRepository>();
+            services.AddRepository<Rutina, IRutinaRepository, RutinaRepository>();
 
             return services;
         }

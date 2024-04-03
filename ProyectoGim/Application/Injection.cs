@@ -10,6 +10,8 @@ using Domain.Clients;
 using FluentValidation;
 using Application.Machines;
 using Application.Instructors;
+using Application.Rutinas;
+using Domain.Rutinas;
 
 namespace Application
 {
@@ -21,9 +23,17 @@ namespace Application
             services.AddAutoMapper(typeof(ClientProfile));
             services.AddScoped<IValidator<CreateClient>, CreateClientValidator>();
             services.AddScoped<IValidator<UpdateClient>, UpdateClientValidator>();
+
             services.AddScoped<IClientService, ClientService>();
             services.AddScoped<IMachineService, MachineService>();
             services.AddScoped<IInstructorService, InstructorService>();
+
+
+
+            services.AddAutoMapper(typeof(RutinaProfile));
+            services.AddScoped<IValidator<CreateRutina>, CreateRutinaValidator>();
+            services.AddScoped<IValidator<UpdateRutina>, UpdateRutinaValidator>();
+            services.AddScoped<IRutinaService, RutinaService>();
 
 
 

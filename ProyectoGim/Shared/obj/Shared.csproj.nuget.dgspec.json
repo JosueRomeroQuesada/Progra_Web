@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {}
+    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual 2024\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
