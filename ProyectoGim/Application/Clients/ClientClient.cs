@@ -65,5 +65,15 @@ namespace Application.Clients
 
             return Result.Success(client);
         }
+
+        public async Task<Result> Delete(int id)
+        {
+            var result = await _client.DeleteAsync
+                (_endpoints.Where(w => w.Name.Equals("Clients", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + id);
+
+            return result.StatusCode == System.Net.HttpStatusCode.Accepted
+               ? Result.Success()
+               : Result.Failure(ClientErrors.NotFound());
+        }
     }
 }

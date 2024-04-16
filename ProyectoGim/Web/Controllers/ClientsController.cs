@@ -95,5 +95,21 @@ namespace Web.Controllers
 
             return View(model);
         }
+
+        [HttpDelete]
+        [Route("/clients/delete/{id}")]
+        public async Task<IActionResult> Delete([FromRoute] int id)
+        {
+            var result = await _client.Delete(id);
+
+            if (result.IsSuccess)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+            ModelState.AddModelError(string.Empty, result.Error.description);
+            return View("Error"); 
+        }
+
     }
 }

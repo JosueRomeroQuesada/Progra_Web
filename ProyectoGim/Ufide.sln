@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{55F56AA6-363B-4869-B8E9-6D326B668D0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{55F56AA6-363B-4869-B8E9-6D326B668D0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{063DA77B-AF6A-4867-80AF-B76CF12C0445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{063DA77B-AF6A-4867-80AF-B76CF12C0445}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

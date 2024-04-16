@@ -1,6 +1,8 @@
 using Application;
 using Application.Clients;
+using Application.Instructors;
 using Domain.Configuration;
+using Domain.Instructors;
 using Persistence;
 using System.ComponentModel;
 
@@ -22,6 +24,13 @@ builder.Services.AddHttpClient<IClientClient, ClientClient>((provider, client) =
     var endpoint = endpoints.Where
     (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
     client.BaseAddress = new Uri(endpoint.Uri);
+});
+
+builder.Services.AddHttpClient<IInstructorInstructor, InstructorInstructor>((provider, instructor) =>
+{
+    var endpoint = endpoints.Where
+    (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
+    instructor.BaseAddress = new Uri(endpoint.Uri);
 });
 
 var app = builder.Build();
