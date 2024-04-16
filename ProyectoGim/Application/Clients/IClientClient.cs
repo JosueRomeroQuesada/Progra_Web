@@ -17,5 +17,7 @@ namespace Application.Clients
         Task<Result> Update(UpdateClient updateClient);
 
         Task<Result<Client>> Get(string idCliente); 
+
+        Task<Result> Delete(int id);
     }
 }

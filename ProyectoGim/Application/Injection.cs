@@ -16,6 +16,7 @@ using Application.Rutinas;
 using Domain.Rutinas;
 using Application.Weekdays;
 using Domain.Weekdays;
+using Domain.Instructors;
 
 namespace Application
 {
@@ -27,6 +28,10 @@ namespace Application
             services.AddAutoMapper(typeof(ClientProfile));
             services.AddScoped<IValidator<CreateClient>, CreateClientValidator>();
             services.AddScoped<IValidator<UpdateClient>, UpdateClientValidator>();
+
+            services.AddAutoMapper(typeof(InstructorProfile));
+            services.AddScoped<IValidator<CreateInstructor>, CreateInstructorValidator>();
+            services.AddScoped<IValidator<UpdateInstructor>, UpdateInstructorValidator>();
 
             services.AddScoped<IClientService, ClientService>();
             services.AddScoped<IMachineService, MachineService>();

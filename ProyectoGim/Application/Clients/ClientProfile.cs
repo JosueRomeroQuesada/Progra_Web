@@ -21,6 +21,8 @@ namespace Application.Clients
                    
             CreateMap<Client, ClientDTO>()
                 .ConstructUsing(source => new ClientDTO(source.Id, source.IdCliente, string.Concat(source.Nombre, " ", source.Apellido)));
+            
+
         }
     }
 }
