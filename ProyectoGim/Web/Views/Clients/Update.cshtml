@@ -6,6 +6,58 @@
     ViewData["Title"] = "Update";
 }
 
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>ACTUALIZACIÓN DEL CLIENTE</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.Id" />
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Apellido" class="form-label">Apellido</label></span>
+                            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <span><label asp-for="@Model.Peso" class="form-label">Peso (kg)</label></span>
+                                <input id="peso" asp-for="@Model.Peso" type="text" class="form-control" />
+                                <span asp-validation-for="@Model.Peso" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <span><label asp-for="@Model.Altura" class="form-label">Estatura (cm)</label></span>
+                                <input id="altura" asp-for="@Model.Altura" type="text" class="form-control" />
+                                <span asp-validation-for="@Model.Altura" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Preferencias" class="form-label">Preferencias</label></span>
+                            <input id="preferencias" asp-for="@Model.Preferencias" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Preferencias" class="text-danger"></span>
+                        </div>
+                        <div class="text-center mb-3">
+                            <button type="submit" class="btn btn-primary btn-lg" style="width: 150px;">Guardar</button>
+                            <a asp-action="Index" class="btn btn-secondary btn-lg" style="width: 150px;">Cancelar</a>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* 
 <div class="container">
     <form method="post">
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -41,3 +93,4 @@
         <partial name="_SaveCancelButtons" model="partialModel" />
     </form>
 </div>
+ *@
