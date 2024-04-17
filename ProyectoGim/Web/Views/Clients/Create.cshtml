@@ -6,7 +6,66 @@
     ViewData["Title"] = "Create";
 }
 
-<div class="container">
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>REGISTRAR CLIENTE</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.IdCliente" class="form-label">No. IdCliente</label></span>
+                            <input id="idCliente" asp-for="@Model.IdCliente" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.IdCliente" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Apellido" class="form-label">Apellidos</label></span>
+                            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <span><label asp-for="@Model.Peso" class="form-label">Peso (Kg)</label></span>
+                                <input id="peso" asp-for="@Model.Peso" type="text" class="form-control" />
+                                <span asp-validation-for="@Model.Peso" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <span><label asp-for="@Model.Altura" class="form-label">Estatura (cm)</label></span>
+                                <input id="altura" asp-for="@Model.Altura" type="text" class="form-control" />
+                                <span asp-validation-for="@Model.Altura" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Preferencias" class="form-label">Preferencias</label></span>
+                            <input id="preferencias" asp-for="@Model.Preferencias" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Preferencias" class="text-danger"></span>
+                        </div>
+
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(0, "/clients");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<d@* iv class="container">
     <form method="post">
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         <div class="mb-3">
@@ -43,7 +102,7 @@
         @{var partialModel = SaveCancelViewModel.Create(0, "/clients");}
         <partial name="_SaveCancelButtons" model="partialModel" />
     </form>
-</div>
+</div> *@
 
 <!--[Insert New Client]-->
 

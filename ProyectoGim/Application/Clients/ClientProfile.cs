@@ -20,7 +20,7 @@ namespace Application.Clients
             CreateMap<Client, UpdateClient>();
                    
             CreateMap<Client, ClientDTO>()
-                .ConstructUsing(source => new ClientDTO(source.Id, source.IdCliente, string.Concat(source.Nombre, " ", source.Apellido)));
+                .ConstructUsing(source => new ClientDTO(source.Id, source.IdCliente, string.Concat(source.Nombre, " ", source.Apellido), source.Peso, source.Altura, source.Preferencias));
             
 
         }

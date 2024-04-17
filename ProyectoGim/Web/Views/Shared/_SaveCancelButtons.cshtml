@@ -2,10 +2,10 @@
 @model SaveCancelViewModel
 
 @{
-    var label = Model.Id > 0 ? "Update" : "Create";
+    var label = Model.Id > 0 ? "Actualizar" : "Crear";
 }
-<button id="submit" type="submit" class="btn btn-primary">@label</button>
-<button id="cancel" type="button" class="btn btn-warning" onclick="OnCancelClick('@Model.ReturnUrl')">Cancel</button>
+<button id="submit" type="submit" class="btn btn-primary btn-lg" style="width: 150px;">@label</button>
+<button id="cancel" type="button" class="btn btn-secondary btn-lg" style="width: 150px;" onclick="OnCancelClick('@Model.ReturnUrl')">Cancelar</button>
 
 <script>
     function OnCancelClick(returnUrl){
