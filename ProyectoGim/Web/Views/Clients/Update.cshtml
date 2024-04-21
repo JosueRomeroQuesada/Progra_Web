@@ -45,9 +45,11 @@
                             <input id="preferencias" asp-for="@Model.Preferencias" type="text" class="form-control" />
                             <span asp-validation-for="@Model.Preferencias" class="text-danger"></span>
                         </div>
-                        <div class="text-center mb-3">
-                            <button type="submit" class="btn btn-primary btn-lg" style="width: 150px;">Guardar</button>
-                            <a asp-action="Index" class="btn btn-secondary btn-lg" style="width: 150px;">Cancelar</a>
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(@Model.Id, "/clients");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
                         </div>
 
                     </form>
