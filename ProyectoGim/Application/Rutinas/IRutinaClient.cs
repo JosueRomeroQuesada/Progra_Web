@@ -17,5 +17,7 @@ namespace Application.Rutinas
         Task<Result> Update(UpdateRutina updateRutina);
 
         Task<Result<Rutina>> Get(string idRutina);
+
+        Task<Result> Delete(int id);
     }
 }

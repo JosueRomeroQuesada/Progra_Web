@@ -1,6 +1,8 @@
 using Application;
 using Application.Clients;
 using Application.Instructors;
+using Application.Rutinas;
+using Application.Weekdays;
 using Domain.Configuration;
 using Domain.Instructors;
 using Persistence;
@@ -33,6 +35,23 @@ builder.Services.AddHttpClient<IInstructorInstructor, InstructorInstructor>((pro
     instructor.BaseAddress = new Uri(endpoint.Uri);
 });
 
+
+builder.Services.AddHttpClient<IRutinaClient, RutinaClient>((provider, rutina) =>
+{
+    var endpoint = endpoints.Where
+    (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
+    rutina.BaseAddress = new Uri(endpoint.Uri);
+});
+
+
+builder.Services.AddHttpClient<IWeekdayClient, WeekdayWeekday>((provider, weekday) =>
+{
+    var endpoint = endpoints.Where
+    (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
+    weekday.BaseAddress = new Uri(endpoint.Uri);
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -42,6 +61,7 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

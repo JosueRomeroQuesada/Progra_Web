@@ -1,0 +1,37 @@
+﻿@using Domain.Weekdays;
+@using Web.Models;
+@model UpdateWeekday
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>ACTUALIZACIÓN DEL DÍA DE LA SEMANA</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.Id" />
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Dia" class="form-label">Día</label></span>
+                            <input id="dia" asp-for="@Model.Dia" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Dia" class="text-danger"></span>
+                        </div>
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(@Model.Id, "/weekdays");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

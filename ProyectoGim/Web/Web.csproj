@@ -40,4 +40,13 @@
     <Folder Include="wwwroot\assets\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Views\Rutinas\Create.cshtml" />
+    <None Include="Views\Rutinas\Index.cshtml" />
+    <None Include="Views\Rutinas\Update.cshtml" />
+    <None Include="Views\Weekdays\Create.cshtml" />
+    <None Include="Views\Weekdays\Index.cshtml" />
+    <None Include="Views\Weekdays\Update.cshtml" />
+  </ItemGroup>
+
 </Project>

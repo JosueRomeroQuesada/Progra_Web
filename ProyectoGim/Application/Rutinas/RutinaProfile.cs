@@ -14,13 +14,14 @@ namespace Application.Rutinas
         {
             CreateMap<CreateRutina, Rutina>();
 
+
             CreateMap<UpdateRutina, Rutina>()
                    .ForMember(destination => destination.Id, source => source.Ignore());
 
             CreateMap<Rutina, UpdateRutina>();
 
             CreateMap<Rutina, RutinaDTO>()
-                .ConstructUsing(source => new RutinaDTO(source.Id, source.IdRutina));
+                .ConstructUsing(source => new RutinaDTO(source.Id, source.IdRutina, source.Descripcion, source.Series, source.Repeticiones, source.Peso));
         }
     }
 }

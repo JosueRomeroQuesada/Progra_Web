@@ -9,14 +9,16 @@ using System.Threading.Tasks;
 
 namespace Application.Weekdays
 {
-	public interface IWeekdayClient
-	{
-		Task<List<WeekdayDTO>> List();
+    public interface IWeekdayClient
+    {
+        Task<List<WeekdayDTO>> List();
 
-		Task<Result> Create(CreateWeekday createWeekday);
+        Task<Result> Create(CreateWeekday createWeekday);
 
-		Task<Result> Update(UpdateWeekday updateWeekday);
+        Task<Result> Update(UpdateWeekday updateWeekday);
 
-		Task<Result<Weekday>> Get(string idDiaSemana);
-	}
+        Task<Result<Weekday>> Get(string idDiaSemana);
+
+        Task<Result> Delete(int id);
+    }
 }
