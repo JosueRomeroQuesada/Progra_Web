@@ -6,31 +6,50 @@
     ViewData["Title"] = "Create";
 }
 
-<div class="container">
-    <form method="post">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-        <div class="mb-3">
-            <label asp-for="@Model.IdEntrenador" class="form-label">IdEntrenador No.</label>
-            <input id="idEntrenador" asp-for="@Model.IdEntrenador" type="text" class="form-control"/>
-            <span asp-validation-for="@Model.IdEntrenador" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Cedula" class="form-label">Cedula.</label>
-            <input id="cedula" asp-for="@Model.Cedula" type="date" class="form-control" />
-            <span asp-validation-for="@Model.Cedula" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Nombre" class="form-label">First Name.</label>
-            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control"/>
-            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Apellido" class="form-label">Last Name.</label>
-            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control"/>
-            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
-        </div>
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>REGISTRAR CLIENTE</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="mb-3">
+                            <span>
+                                <label asp-for="@Model.IdEntrenador" class="form-label">No. Carnet</label></span>
+                            <input id="idEntrenador" asp-for="@Model.IdEntrenador" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.IdEntrenador" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span>
+                                <label asp-for="@Model.Cedula" class="form-label">Cédula </label></span>
+                            <input id="cedula" asp-for="@Model.Cedula" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Cedula" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span>
+                                <label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span>
+                                <label asp-for="@Model.Apellido" class="form-label">Apellidos</label></span>
+                            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+                        </div>
 
-        @{var partialModel = SaveCancelViewModel.Create(0, "/instructors");}
-        <partial name="_SaveCancelButtons" model="partialModel" />
-    </form>
-</div>
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(0, "/instructors");
+                        }
+                        <partial name="_SaveCancelButtons" model="partialModel" />
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

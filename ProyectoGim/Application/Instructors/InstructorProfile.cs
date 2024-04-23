@@ -20,7 +20,7 @@ namespace Application.Instructors
             CreateMap<Instructor, UpdateInstructor>();
                    
             CreateMap<Instructor, InstructorDTO>()
-                .ConstructUsing(source => new InstructorDTO(source.Id, source.IdEntrenador, string.Concat(source.Nombre, " ", source.Apellido)));
+                .ConstructUsing(source => new InstructorDTO(source.Id, source.IdEntrenador, string.Concat(source.Nombre, " ", source.Apellido), source.Cedula));
         }
     }
 }
