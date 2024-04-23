@@ -1,4 +1,5 @@
-﻿using Domain.Courses;
+﻿using Domain.Clients;
+using Domain.Courses;
 using Shared;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -66,9 +67,9 @@ namespace Domain.Instructors
         [JsonInclude]
         [JsonPropertyName("apellido")]
         public string Apellido { get; private set; }
-        /*
-        [JsonIgnore]
-        public List<Course> Courses { get; private set; } 
-        */
+
+        [JsonInclude]
+        [JsonPropertyName("clients")]
+        public List<Client> Clients { get; private set; }
     }
 }

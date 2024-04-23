@@ -1,5 +1,6 @@
 ﻿using Application.Instructors;
 using Domain.Instructors;
+using Domain.Clients;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
 using Persistence.Repositories;
@@ -12,7 +13,14 @@ namespace Persistence.Instructors
         public InstructorRepository(ApplicationDbContext context)
             : base(context)
         {
-            
+
+        }
+
+        public void SubscribeIntructor(Instructor instructor, Client client)
+        {
+            var clientInstrutor = new { client, instructor };
+            _context.Add(clientInstrutor);
+            _context.SaveChanges();
         }
     }
 }

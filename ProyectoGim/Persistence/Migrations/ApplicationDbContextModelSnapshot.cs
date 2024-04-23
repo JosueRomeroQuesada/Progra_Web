@@ -22,6 +22,21 @@ namespace Persistence.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ClientInstructor", b =>
+                {
+                    b.Property<int>("ClientsId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("InstructorsId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ClientsId", "InstructorsId");
+
+                    b.HasIndex("InstructorsId");
+
+                    b.ToTable("ClientInstructor");
+                });
+
             modelBuilder.Entity("Domain.Clients.Client", b =>
                 {
                     b.Property<int>("Id")
@@ -132,9 +147,6 @@ namespace Persistence.Migrations
                         .HasColumnType("nvarchar(10)")
                         .HasAnnotation("Relational:JsonPropertyName", "cedula");
 
-                    b.Property<int?>("ClientId")
-                        .HasColumnType("int");
-
                     b.Property<string>("IdEntrenador")
                         .IsRequired()
                         .HasMaxLength(10)
@@ -149,11 +161,7 @@ namespace Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ClientId");
-
                     b.ToTable("Instructors");
-
-                    b.HasAnnotation("Relational:JsonPropertyName", "instructors");
                 });
 
             modelBuilder.Entity("Domain.Machines.Machine", b =>
@@ -272,18 +280,26 @@ namespace Persistence.Migrations
                     b.HasAnnotation("Relational:JsonPropertyName", "dias");
                 });
 
+            modelBuilder.Entity("ClientInstructor", b =>
+                {
+                    b.HasOne("Domain.Clients.Client", null)
+                        .WithMany()
+                        .HasForeignKey("ClientsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Domain.Instructors.Instructor", null)
+                        .WithMany()
+                        .HasForeignKey("InstructorsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Domain.Ejercicios.Ejercicio", b =>
                 {
                     b.HasOne("Domain.Rutinas.Rutina", null)
                         .WithMany("Ejercicios")
                         .HasForeignKey("RutinaId");
-                });
-
-            modelBuilder.Entity("Domain.Instructors.Instructor", b =>
-                {
-                    b.HasOne("Domain.Clients.Client", null)
-                        .WithMany("Instructors")
-                        .HasForeignKey("ClientId");
                 });
 
             modelBuilder.Entity("Domain.Machines.Machine", b =>
@@ -298,11 +314,6 @@ namespace Persistence.Migrations
                     b.HasOne("Domain.Rutinas.Rutina", null)
                         .WithMany("dias")
                         .HasForeignKey("RutinaId");
-                });
-
-            modelBuilder.Entity("Domain.Clients.Client", b =>
-                {
-                    b.Navigation("Instructors");
                 });
 
             modelBuilder.Entity("Domain.Ejercicios.Ejercicio", b =>

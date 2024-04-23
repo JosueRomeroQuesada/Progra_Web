@@ -111,3 +111,23 @@ C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.dll
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.pdb
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.deps.json
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.dll
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.pdb
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Shared.dll
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Domain.pdb
+D:\Github\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Shared.pdb
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.dll
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.pdb
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\Github\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\ref\Application.dll

@@ -119,3 +119,21 @@ C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Domain\obj\Debug\net8
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.dll
+D:\Github\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.pdb
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\ref\Domain.dll

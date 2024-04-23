@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj": {}
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\obj\\",
+        "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -41,6 +45,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,21 +95,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\obj\\",
+        "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,8 +127,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -124,6 +137,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -157,21 +175,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\obj\\",
+        "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -185,14 +207,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -201,6 +223,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -246,21 +273,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
+        "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -280,6 +311,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -313,21 +349,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj": {
+    "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+        "projectUniqueName": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\",
+        "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\Josué\\.nuget\\packages\\",
+        "outputPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Josué\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -341,17 +381,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Persistence.csproj"
               },
-              "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Github\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -360,6 +400,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -396,7 +441,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

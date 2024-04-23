@@ -121,3 +121,25 @@ C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Persistence\obj\Debug
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.dll
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\refint\Persistence.dll
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Application.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Shared.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Application.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\bin\Debug\net8.0\Shared.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\Github\Progra_Web\ProyectoGim\Persistence\obj\Debug\net8.0\ref\Persistence.dll
