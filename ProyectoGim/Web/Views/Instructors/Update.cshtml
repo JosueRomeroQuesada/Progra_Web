@@ -6,28 +6,45 @@
     ViewData["Title"] = "Update";
 }
 
-<div class="container">
-    <form method="post">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-        <input type="hidden" asp-for="@Model.Id" />
-        <div class="mb-3">
-            <label asp-for="@Model.Cedula" class="form-label">Cedula.</label>
-            <input id="cedula" asp-for="@Model.Cedula" type="text" class="form-control" />
-            <span asp-validation-for="@Model.Cedula" class="text-danger"></span>
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>ACTUALIZACIÓN DEL CLIENTE</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.Id" />
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Cedula" class="form-label">Cédula</label></span>
+                            <input id="cedula" asp-for="@Model.Cedula" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Cedula" class="text-danger"></span>
+                        </div>
+                        <div>
+                            <span>
+                                <label asp-for="@Model.Nombre" class="form-label">Nombre</label>
+                            </span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span>
+                                <label asp-for="@Model.Apellido" class="form-label">Apellidos</label>
+                            </span>
+                            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
+                        </div>
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(Model.Id, "/instructors");
+                        }
+                        <partial name="_SaveCancelButtons" model="partialModel" />
+
+                    </form>
+                </div>
+            </div>
         </div>
-        <div>
-            <label asp-for="@Model.Nombre" class="form-label">First Name.</label>
-            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
-            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Apellido" class="form-label">Last Name.</label>
-            <input id="apellido" asp-for="@Model.Apellido" type="text" class="form-control" />
-            <span asp-validation-for="@Model.Apellido" class="text-danger"></span>
-        </div>
-        @{
-            var partialModel = SaveCancelViewModel.Create(Model.Id, "/instructors");
-        }
-        <partial name="_SaveCancelButtons" model="partialModel" />
-    </form>
-</div>
+    </div>
+</section>
