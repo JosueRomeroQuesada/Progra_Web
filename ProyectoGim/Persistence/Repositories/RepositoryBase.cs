@@ -1,8 +1,9 @@
-﻿using Application.Repositories;
+﻿using Shared.Repositories;
 using Domain;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Contexts;
 using System.Linq.Expressions;
+using Shared.Domain;
 
 namespace Persistence.Repositories
 {

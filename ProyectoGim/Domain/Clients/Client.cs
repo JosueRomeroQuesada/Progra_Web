@@ -1,6 +1,7 @@
 ﻿using Domain.Courses;
 using Domain.Instructors;
 using Shared;
+using Shared.Domain;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;

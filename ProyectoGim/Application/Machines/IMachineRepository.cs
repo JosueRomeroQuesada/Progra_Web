@@ -1,5 +1,5 @@
-﻿using Application.Repositories;
-using Domain.Machines;
+﻿using Domain.Machines;
+using Shared.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;

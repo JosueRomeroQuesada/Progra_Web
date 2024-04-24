@@ -1,0 +1,190 @@
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 11\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 12\Ufide\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 13\Ufide\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Shared.dll
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Application.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\bin\Debug\net8.0\Shared.pdb
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Profesor\Fidelitas\- 2024\SC-701\Leccion 14\Ufide\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Johan Navarro\Desktop\Leccion 14 - Copy\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Johan Navarro\Desktop\aaaaa\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Johan Navarro\Desktop\Caso practico 2\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Shared.dll
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\bin\Debug\net8.0\Shared.pdb
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

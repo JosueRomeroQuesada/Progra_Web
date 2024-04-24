@@ -1,363 +1,363 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\Magnific-Popup-master.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\Magnific-Popup-master.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\Magnific-Popup-master.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\SlickNav-master.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\SlickNav-master.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\SlickNav-master.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\barfiller-master.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\barfiller-master.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\barfiller-master.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\bootstrap-4.2.1-dist.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\bootstrap-4.2.1-dist.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\bootstrap-4.2.1-dist.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\flaticon.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\flaticon.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\flaticon.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\font-awesome-4.7.0.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\sass.zip",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\sass.zip",
       "PackagePath": "staticwebassets\\assets\\Source\\sass.zip"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\barfiller.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\barfiller.css",
       "PackagePath": "staticwebassets\\assets\\css\\barfiller.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\flaticon.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\slicknav.min.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\about-us.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\about-us.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about-us.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\banner-bg.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\banner-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\banner-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\blog-profile.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\blog-profile.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\blog-profile.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\comment-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\comment-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\comment-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\quote-left.png",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\quote-left.png",
       "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\quote-left.png"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\breadcrumb-bg.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\breadcrumb-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-5.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-5.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\class-detailsl.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\class-detailsl.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-details\\class-detailsl.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\trainer-profile.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\trainer-profile.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\classes\\class-details\\trainer-profile.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-9.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-9.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-9.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\letest-blog\\latest-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\letest-blog\\latest-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\letest-blog\\latest-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\letest-blog\\latest-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-5.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\letest-blog\\latest-5.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\logo.png",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\services\\services-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\services\\services-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\services\\services-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\services\\services-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\sidebar-banner.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\sidebar-banner.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\sidebar-banner.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-5.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-5.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-5.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-6.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-6.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\team-6.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-1.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-2.jpg",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.barfiller.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.barfiller.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.barfiller.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\masonry.pkgd.min.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\masonry.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\masonry.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\diego\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

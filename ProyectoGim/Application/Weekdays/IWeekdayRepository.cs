@@ -1,5 +1,5 @@
-﻿using Application.Repositories;
-using Domain.Weekdays;
+﻿using Domain.Weekdays;
+using Shared.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;

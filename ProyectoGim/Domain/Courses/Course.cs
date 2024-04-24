@@ -1,5 +1,6 @@
 ﻿using Domain.Clients;
 using Domain.Instructors;
+using Shared.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;

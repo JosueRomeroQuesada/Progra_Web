@@ -1,4 +1,4 @@
-﻿using Application.Repositories;
+﻿using Shared.Repositories;
 using Domain.Instructors;
 using Domain.Weekdays;
 using Shared;
