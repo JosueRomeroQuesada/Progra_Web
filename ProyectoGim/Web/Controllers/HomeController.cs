@@ -18,6 +18,16 @@ namespace Web.Controllers
             return View();
         }
 
+        public IActionResult Galeria()
+        {
+            return View();
+        }
+
+        public IActionResult Acercadenosotros()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
