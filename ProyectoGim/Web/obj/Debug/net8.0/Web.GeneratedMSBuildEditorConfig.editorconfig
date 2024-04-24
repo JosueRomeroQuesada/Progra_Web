@@ -9,131 +9,131 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Web\
+build_property.ProjectDir = C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Web
+build_property.MSBuildProjectDirectory = C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Account/Signin.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Account/Signin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Account/Signup.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Account/Signup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Clients/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Clients/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Clients/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Clients/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Ejercicios/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWplcmNpY2lvc1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Home/Acercadenosotros.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Home/Acercadenosotros.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FkZW5vc290cm9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Home/Galeria.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Home/Galeria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxlcmlhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Home/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Home/Privacy.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Instructors/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Instructors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Instructors/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Instructors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Instructors/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Instructors/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvcnNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Machines/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Machines/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Machines/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Machines/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Machines/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Machines/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Rutinas/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Rutinas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0aW5hc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Rutinas/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Rutinas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0aW5hc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Rutinas/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Rutinas/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnV0aW5hc1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Shared/Error.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Shared/_SaveCancelButtons.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Shared/_SaveCancelButtons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TYXZlQ2FuY2VsQnV0dG9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Weekdays/Create.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Weekdays/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vla2RheXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Weekdays/Index.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Weekdays/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vla2RheXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Weekdays/Update.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Weekdays/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Vla2RheXNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/_ViewImports.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/_ViewStart.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/André/Desktop/Proyecto Progra Web/Progra_Web/ProyectoGim/Web/Views/Shared/_Layout.cshtml]
+[C:/Users/Johan Navarro/source/repos/Progra_Web/ProyectoGim/Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

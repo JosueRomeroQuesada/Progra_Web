@@ -82,18 +82,44 @@
                     <nav class="nav-menu">
                         <ul>
                             <li><a class="dropdown-item" asp-controller="Home" asp-action="Index">Inicio</a></li>
-                            <li><a class="dropdown-item" asp-controller="Clients" asp-action="Index">Clientes</a></li>
-                            <li><a class="dropdown-item" asp-controller="Instructors" asp-action="Index">Instructores</a></li>
+                            <li>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a class="dropdown-item" asp-controller="Clients" asp-action="Index">Clientes</a>
+                                }
+                            </li>
+                            <li>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a class="dropdown-item" asp-controller="Instructors" asp-action="Index">Instructores</a>
+                                }
+                            </li>
                             <li><a class="dropdown-item" asp-controller="Rutinas" asp-action="Index">Rutinas</a></li>
-                            <li><a class="dropdown-item" asp-controller="Weekdays" asp-action="Index">Dia de la semana</a></li>
-                            <li><a class="dropdown-item" asp-controller="Ejercicios" asp-action="Index">Ejercicios</a></li>
-                            <li><a class="dropdown-item" asp-controller="Machines" asp-action="Index">Máquinas</a></li>
+                            <li>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a class="dropdown-item" asp-controller="Weekdays" asp-action="Index">Dia de la semana</a>
+                                }
+                            </li>
+                            <li>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a class="dropdown-item" asp-controller="Weekdays" asp-action="Index">Dia de la semana</a>
+                                }
+                            </li>
+                            <li>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <a class="dropdown-item" asp-controller="Machines" asp-action="Index">Máquinas</a>
+                                }
+                            </li>
                             <li>
 
 
                             <li>
                                                 @if (!SignInManager.IsSignedIn(User))
                                                 {
+                                    
                                     <a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Signup">Sign Up</a>
                                                 }
                                             </li>
