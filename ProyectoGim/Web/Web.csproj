@@ -48,6 +48,12 @@
   <ItemGroup>
     <None Include="Views\Account\Signin.cshtml" />
     <None Include="Views\Account\Signup.cshtml" />
+    <None Include="Views\Ejercicios\Create.cshtml" />
+    <None Include="Views\Ejercicios\Index.cshtml" />
+    <None Include="Views\Ejercicios\Update.cshtml" />
+    <None Include="Views\Machines\Create.cshtml" />
+    <None Include="Views\Machines\Index.cshtml" />
+    <None Include="Views\Machines\Update.cshtml" />
     <None Include="Views\Rutinas\Create.cshtml" />
     <None Include="Views\Rutinas\Index.cshtml" />
     <None Include="Views\Rutinas\Update.cshtml" />

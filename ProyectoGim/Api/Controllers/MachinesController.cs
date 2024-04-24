@@ -9,7 +9,7 @@ namespace Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    
+
     public class MachinesController : ControllerBase
     {
         private IMachineService _service;
@@ -54,7 +54,7 @@ namespace Api.Controllers
         public IActionResult Create([FromBody] CreateMachine machine)
         {
             var result = _service.Create(machine);
-            
+
             if (result.IsSuccess)
             {
                 //return Created();

@@ -142,3 +142,23 @@ C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\bin\Debug
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 C:\Users\Johan Navarro\source\repos\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Shared.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\bin\Debug\net8.0\Shared.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Application\obj\Debug\net8.0\ref\Application.dll

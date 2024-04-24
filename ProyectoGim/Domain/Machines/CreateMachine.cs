@@ -8,7 +8,7 @@ namespace Domain.Machines
 {
     public class CreateMachine
     {
-        public string IdMachine { get; set; }
+        public string Id { get; set; }
 
         public string Codigo { get; set; }
 

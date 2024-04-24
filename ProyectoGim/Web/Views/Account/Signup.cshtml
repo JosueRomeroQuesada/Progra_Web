@@ -1,23 +1,67 @@
 ﻿@using Domain.Account;
 
+
 @model AccountViewModel
 
-<div class="container">
-    <form method="post">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<style>
+    .custom-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 1000px; /* Reduje la altura del encabezado para este ejemplo */
+        background-color: darkorange;
+        z-index: 1000;
+    }
 
-        <div class="mb-3">
-            <label asp-for="@Model.Email" class="form-label">Email</label>
-            <input type="email" id="email" asp-for="@Model.Email" class="form-control" />
-            <span asp-validation-for="@Model.Email" class="text-danger"></span>
+    .container {
+        margin-top: 150px; /* Ajusta el margen superior para dejar espacio para el encabezado */
+        text-align: center; /* Centra el contenido */
+    }
+
+    .form-control {
+        width: 220px; /* Define un ancho más pequeño para los inputs */
+        margin: 0 auto; /* Centra horizontalmente los inputs */
+    }
+
+    .btn-submit {
+        background-color: black; /* Cambia el color de fondo del botón */
+        color: white; /* Cambia el color del texto del botón a blanco */
+    }
+</style>
+
+<header class="custom-header">
+    <p></p>
+    <p></p>
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="fs-about">
+                <div class="fa-logo">
+                    <a href="#"><img src="~/assets/img/logo.png" alt=""></a>
+                </div>
+            </div>
         </div>
-        <div class="mb-3">
-            <label asp-for="@Model.Password" class="form-label">Password</label>
-            <input type="password" id="password" asp-for="@Model.Password" class="form-control" />
-            <span asp-validation-for="@Model.Password" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <button type="submit" class="btn btn-success">Signup</button>
-        </div>
-    </form>
-</div>
+
+    </div>
+
+    <div class="container">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="@Model.Email" class="form-label">Email</label>
+                <input type="email" id="email" asp-for="@Model.Email" class="form-control" />
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Password" class="form-label">Password</label>
+                <input type="password" id="password" asp-for="@Model.Password" class="form-control" />
+                <span asp-validation-for="@Model.Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-submit">Sign Up</button>
+            </div>
+        </form>
+    </div>
+</header>
+

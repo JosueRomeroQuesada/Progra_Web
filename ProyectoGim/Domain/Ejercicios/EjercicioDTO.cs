@@ -11,7 +11,7 @@ namespace Domain.Ejercicios
     {
         public EjercicioDTO() { }
 
-        public EjercicioDTO(int idEjercicio, string nombre, string zona, string descripcion) 
+        public EjercicioDTO(int idEjercicio, string nombre, string zona, string descripcion)
         {
             IdEjercicio = idEjercicio;
             Nombre = nombre;

@@ -10,11 +10,12 @@ namespace Domain.Machines
     {
         public MachineDTO() { }
 
-        public MachineDTO(int id, string codigo, string nombre) 
+        public MachineDTO(int id, string codigo, string nombre, string desc)
         {
             Id = id;
             Codigo = codigo;
             Nombre = nombre;
+            Descripcion = desc;
         }
 
         public int Id { get; set; }
@@ -22,5 +23,7 @@ namespace Domain.Machines
         public string Codigo { get; set; }
 
         public string Nombre { get; set; }
+
+        public string Descripcion { get; set; }
     }
 }

@@ -137,3 +137,21 @@ D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
 D:\Github\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\bin\Debug\net8.0\Shared.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\André\Desktop\Proyecto Progra Web\Progra_Web\ProyectoGim\Domain\obj\Debug\net8.0\ref\Domain.dll

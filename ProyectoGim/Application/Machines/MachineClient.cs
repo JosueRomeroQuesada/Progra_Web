@@ -13,6 +13,8 @@ using Domain.Configuration;
 using Shared;
 using Application.Instructors;
 using Domain.Instructors;
+using Application.Clients;
+using Domain.Clients;
 
 
 
@@ -24,7 +26,7 @@ namespace Application.Machines
         private readonly HttpClient _machine;
         private readonly IMapper _mapper;
 
-        public MachineClient(IOptions<List<EndpointConfiguration>> options, HttpClient machine, IMapper mapper) 
+        public MachineClient(IOptions<List<EndpointConfiguration>> options, HttpClient machine, IMapper mapper)
         {
             _endpoints = options.Value.Where
                 (w => w.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Endpoints.ToList();
@@ -43,7 +45,7 @@ namespace Application.Machines
         {
             var content = new StringContent(JsonSerializer.Serialize(createMachine), Encoding.UTF8, "application/json");
             var result = await _machine.PostAsync
-                (_endpoints.Where(w => w.Name.Equals("Machine", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri, content);
+                (_endpoints.Where(w => w.Name.Equals("Machines", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri, content);
 
             return result.StatusCode == System.Net.HttpStatusCode.Created
                 ? Result.Success()
@@ -61,15 +63,24 @@ namespace Application.Machines
                 : Result.Failure(MachineErrors.NotUpdated());
         }
 
-        public async Task<Result<Machine>> Get(string idMachine)
+        public async Task<Result<Machine>> Get(string id)
         {
             var content = await _machine.GetStringAsync
-                (_endpoints.Where(w => w.Name.Equals("Machines", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + idMachine);
+                (_endpoints.Where(w => w.Name.Equals("Machines", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + id);
             var machine = JsonSerializer.Deserialize<Machine>(content);
 
             return Result.Success(machine);
         }
 
-        
+        public async Task<Result> Delete(int id)
+        {
+            var result = await _machine.DeleteAsync
+                (_endpoints.Where(w => w.Name.Equals("Machines", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + id);
+
+            return result.StatusCode == System.Net.HttpStatusCode.Accepted
+               ? Result.Success()
+               : Result.Failure(ClientErrors.NotFound());
+        }
+
     }
 }

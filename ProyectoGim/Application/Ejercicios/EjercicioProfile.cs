@@ -19,9 +19,9 @@ namespace Application.Ejercicios
                    .ForMember(destination => destination.IdEjercicio, source => source.Ignore());
 
             CreateMap<Ejercicio, UpdateEjercicio>();
-                   
+
             CreateMap<Ejercicio, EjercicioDTO>()
-                .ConstructUsing(source => new EjercicioDTO(source.IdEjercicio,source.Nombre, source.Zona,source.Descripcion));
+                .ConstructUsing(source => new EjercicioDTO(source.IdEjercicio, source.Nombre, source.Zona, source.Descripcion));
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Application.Ejercicios
 {
     public static class EjercicioErrors
     {
-        public static Error NotFound (string idEjercicio)=> 
+        public static Error NotFound(string idEjercicio) =>
             new Error("Clients.NOT_FOUND", $"The Ejercicio with IdEjercicio {idEjercicio} was not found.");
 
         public static Error NotFound() =>

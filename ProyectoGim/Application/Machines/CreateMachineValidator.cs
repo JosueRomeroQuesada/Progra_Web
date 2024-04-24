@@ -12,7 +12,6 @@ namespace Application.Machines
     {
         public CreateMachineValidator()
         {
-            RuleFor(o => o.IdMachine).Length(5, 10);
             RuleFor(o => o.Nombre).Length(2, 40);
             RuleFor(o => o.Codigo).Length(2, 40);
             RuleFor(o => o.Descripcion).Length(2, 5);

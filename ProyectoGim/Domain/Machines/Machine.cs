@@ -47,7 +47,7 @@ namespace Domain.Machines
         [StringLength(10, MinimumLength = 5)]
         [JsonInclude]
         [JsonPropertyName("codigo")]
-        public string Codigo {  get; private set; }
+        public string Codigo { get; private set; }
 
         [Required(AllowEmptyStrings = false)]
         [StringLength(40, MinimumLength = 3)]
@@ -56,7 +56,7 @@ namespace Domain.Machines
         public string Nombre { get; private set; }
 
         [Required(AllowEmptyStrings = false)]
-        [StringLength(40, MinimumLength = 2)]
+        [StringLength(60, MinimumLength = 2)]
         [JsonInclude]
         [JsonPropertyName("descripcion")]
         public string Descripcion { get; private set; }

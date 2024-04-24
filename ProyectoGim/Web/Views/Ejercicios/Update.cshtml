@@ -1,0 +1,49 @@
+﻿@using Domain.Ejercicios;
+@using Web.Models;
+@model UpdateEjercicio
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>ACTUALIZACIÓN DEL EJERCICIO</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.IdEjercicio" />
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Descripcion" class="form-label">Descripcion</label></span>
+                            <input id="descripcion" asp-for="@Model.Descripcion" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Descripcion" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Zona" class="form-label">Zona</label></span>
+                            <input id="zona" asp-for="@Model.Zona" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Zona" class="text-danger"></span>
+                        </div>
+                          
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(@Model.IdEjercicio, "/ejercicios");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

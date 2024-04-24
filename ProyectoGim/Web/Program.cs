@@ -3,11 +3,13 @@ using Application.Clients;
 using Application.Instructors;
 using Application.Rutinas;
 using Application.Weekdays;
+using Application.Ejercicios;
 using Domain.Configuration;
 using Domain.Instructors;
 using Persistence;
 using System.ComponentModel;
 using Infrastructure;
+using Application.Machines;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -53,6 +55,19 @@ builder.Services.AddHttpClient<IWeekdayClient, WeekdayWeekday>((provider, weekda
     weekday.BaseAddress = new Uri(endpoint.Uri);
 });
 
+builder.Services.AddHttpClient<IMachineClient, MachineClient>((provider, machine) =>
+{
+    var endpoint = endpoints.Where
+    (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
+    machine.BaseAddress = new Uri(endpoint.Uri);
+});
+
+builder.Services.AddHttpClient<IEjercicioEjercicio, EjercicioEjercicio>((provider, ejercicio) =>
+{
+    var endpoint = endpoints.Where
+    (s => s.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault();
+    ejercicio.BaseAddress = new Uri(endpoint.Uri);
+});
 
 var app = builder.Build();
 

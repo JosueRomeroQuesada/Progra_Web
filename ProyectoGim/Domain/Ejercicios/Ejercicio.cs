@@ -1,5 +1,4 @@
-﻿using Domain.Courses;
-using Domain.Instructors;
+﻿using Domain.Instructors;
 using Domain.Ejercicios;
 using Shared;
 using System.ComponentModel.DataAnnotations;
@@ -17,7 +16,7 @@ namespace Domain.Ejercicios
         { }
 
         public static Ejercicio Create
-            (int idEjercicio, string nombre, string zona,string descripcion)
+            (int idEjercicio, string nombre, string zona, string descripcion)
         {
             return new()
             {
@@ -26,7 +25,7 @@ namespace Domain.Ejercicios
                 Zona = zona,
                 Descripcion = descripcion
 
-    };
+            };
         }
 
         public static Ejercicio Create

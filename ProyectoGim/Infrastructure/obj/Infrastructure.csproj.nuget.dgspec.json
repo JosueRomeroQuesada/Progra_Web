@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+    "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Johan Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\obj\\",
+        "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\André\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Johan Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\André\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
+              "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -46,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -91,24 +96,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
+    "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Johan Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\André\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Johan Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\André\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
+              "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj"
               }
             }
           }
@@ -134,6 +139,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -167,24 +177,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Johan Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\André\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Johan Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\André\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -200,8 +210,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
+              "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Application.csproj"
               }
             }
           }
@@ -210,6 +220,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -271,24 +286,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
+    "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Johan Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\André\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Johan Navarro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\André\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -310,6 +325,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -343,7 +363,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

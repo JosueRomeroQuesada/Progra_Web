@@ -1,50 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\Progra_Web\\ProyectoGim\\",
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\contexts\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\contexts\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|d:\\github\\progra_web\\proyectogim\\persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|d:\\github\\progra_web\\proyectogim\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\weekdays\\weekdayclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\weekdays\\weekdayclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|d:\\github\\progra_web\\proyectogim\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|d:\\github\\progra_web\\proyectogim\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\weekdays\\iweekdayclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\weekdays\\iweekdayclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\application\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\injection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|d:\\github\\progra_web\\proyectogim\\domain\\rutinas\\rutinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\rutinas\\rutinadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\application\\machines\\machineprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\machines\\machineprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\rutinas\\rutinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\rutinas\\rutinaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\rutinas\\irutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\rutinas\\irutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\web\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|d:\\github\\progra_web\\proyectogim\\application\\rutinas\\rutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\rutinas\\rutinaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\application\\machines\\createmachinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\machines\\createmachinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\domain\\machines\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\machines\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\application\\machines\\updatemachinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F56AA6-363B-4869-B8E9-6D326B668D0E}|Application\\Application.csproj|solutionrelative:application\\machines\\updatemachinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\web\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44920665-939F-4F74-9EED-4FDB882272A2}|Web\\Web.csproj|solutionrelative:web\\controllers\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\persistence\\machines\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|solutionrelative:persistence\\machines\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\persistence\\ejercicios\\ejerciciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063DA77B-AF6A-4867-80AF-B76CF12C0445}|Persistence\\Persistence.csproj|solutionrelative:persistence\\ejercicios\\ejerciciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\domain\\ejercicios\\updateejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\updateejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\domain\\ejercicios\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\ejerciciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\domain\\ejercicios\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|c:\\users\\andr\u00E9\\desktop\\proyecto progra web\\progra_web\\proyectogim\\domain\\ejercicios\\createejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6206C209-9D11-4CC1-A0C2-D8B118EE1C4F}|Domain\\Domain.csproj|solutionrelative:domain\\ejercicios\\createejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,27 +74,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 721,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -82,31 +86,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:296:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
@@ -118,6 +102,42 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -125,150 +145,211 @@
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Contexts\\IApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Application\\Contexts\\IApplicationDbContext.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Contexts\\IApplicationDbContext.cs",
-              "RelativeToolTip": "Application\\Contexts\\IApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:32:19.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Contexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\Contexts\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Persistence\\Contexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Persistence\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCAAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T20:31:34.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeekdayClient.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Weekdays\\WeekdayClient.cs",
-              "RelativeDocumentMoniker": "Application\\Weekdays\\WeekdayClient.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Weekdays\\WeekdayClient.cs",
-              "RelativeToolTip": "Application\\Weekdays\\WeekdayClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:41:33.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IWeekdayClient.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Weekdays\\IWeekdayClient.cs",
-              "RelativeDocumentMoniker": "Application\\Weekdays\\IWeekdayClient.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Weekdays\\IWeekdayClient.cs",
-              "RelativeToolTip": "Application\\Weekdays\\IWeekdayClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:41:23.339Z",
+              "WhenOpened": "2024-04-24T21:57:57.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAB/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T19:40:25.579Z",
+              "Title": "MachineProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\MachineProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Machines\\MachineProfile.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\MachineProfile.cs",
+              "RelativeToolTip": "Application\\Machines\\MachineProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:01:49.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Web\\Program.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\Program.cs",
-              "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Injection.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Injection.cs",
+              "RelativeDocumentMoniker": "Application\\Injection.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Injection.cs",
+              "RelativeToolTip": "Application\\Injection.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDoAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:39:27.855Z",
+              "WhenOpened": "2024-04-24T22:00:03.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Web\\appsettings.json",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Web\\appsettings.json",
-              "RelativeToolTip": "Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-23T19:39:06.41Z",
+              "Title": "MachinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Controllers\\MachinesController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\MachinesController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Controllers\\MachinesController.cs",
+              "RelativeToolTip": "Web\\Controllers\\MachinesController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwGYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:57:28.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Machines\\Machine.cs",
+              "RelativeDocumentMoniker": "Domain\\Machines\\Machine.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Machines\\Machine.cs",
+              "RelativeToolTip": "Domain\\Machines\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:56:56.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMachineValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\CreateMachineValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Machines\\CreateMachineValidator.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\CreateMachineValidator.cs",
+              "RelativeToolTip": "Application\\Machines\\CreateMachineValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:56:11.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "RutinaDTO.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Rutinas\\RutinaDTO.cs",
-              "RelativeDocumentMoniker": "Domain\\Rutinas\\RutinaDTO.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Domain\\Rutinas\\RutinaDTO.cs",
-              "RelativeToolTip": "Domain\\Rutinas\\RutinaDTO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:37:50.053Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T21:49:57.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RutinaProfile.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaProfile.cs",
-              "RelativeDocumentMoniker": "Application\\Rutinas\\RutinaProfile.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaProfile.cs",
-              "RelativeToolTip": "Application\\Rutinas\\RutinaProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Title": "UpdateMachineValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\UpdateMachineValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Machines\\UpdateMachineValidator.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Application\\Machines\\UpdateMachineValidator.cs",
+              "RelativeToolTip": "Application\\Machines\\UpdateMachineValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:37:06.251Z",
+              "WhenOpened": "2024-04-24T21:48:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T21:47:32.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IRutinaClient.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\IRutinaClient.cs",
-              "RelativeDocumentMoniker": "Application\\Rutinas\\IRutinaClient.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\IRutinaClient.cs",
-              "RelativeToolTip": "Application\\Rutinas\\IRutinaClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Title": "EjerciciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Controllers\\EjerciciosController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\EjerciciosController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\Controllers\\EjerciciosController.cs",
+              "RelativeToolTip": "Web\\Controllers\\EjerciciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:36:53.446Z",
+              "WhenOpened": "2024-04-24T21:43:31.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "RutinaClient.cs",
-              "DocumentMoniker": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaClient.cs",
-              "RelativeDocumentMoniker": "Application\\Rutinas\\RutinaClient.cs",
-              "ToolTip": "D:\\Github\\Progra_Web\\ProyectoGim\\Application\\Rutinas\\RutinaClient.cs",
-              "RelativeToolTip": "Application\\Rutinas\\RutinaClient.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAqwD4AAAA2AAAA",
+              "Title": "MachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Persistence\\Machines\\MachineRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Machines\\MachineRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Persistence\\Machines\\MachineRepository.cs",
+              "RelativeToolTip": "Persistence\\Machines\\MachineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T19:36:26.329Z",
+              "WhenOpened": "2024-04-24T21:37:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EjercicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "RelativeToolTip": "Persistence\\Ejercicios\\EjercicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:35:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateEjercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\UpdateEjercicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:36.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EjercicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\EjercicioDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\EjercicioDTO.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\EjercicioDTO.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\EjercicioDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\Ejercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\Ejercicio.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:32:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEjercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\CreateEjercicio.cs",
+              "RelativeDocumentMoniker": "Domain\\Ejercicios\\CreateEjercicio.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Domain\\Ejercicios\\CreateEjercicio.cs",
+              "RelativeToolTip": "Domain\\Ejercicios\\CreateEjercicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:32:31.779Z",
               "EditorCaption": ""
             }
           ]

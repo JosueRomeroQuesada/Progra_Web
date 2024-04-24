@@ -11,6 +11,7 @@ using AutoMapper;
 using Microsoft.Extensions.Options;
 using Domain.Configuration;
 using Shared;
+using Application.Clients;
 
 namespace Application.Ejercicios
 
@@ -21,7 +22,7 @@ namespace Application.Ejercicios
         private readonly HttpClient _ejercicio;
         private readonly IMapper _mapper;
 
-        public EjercicioEjercicio(IOptions<List<EndpointConfiguration>> options, HttpClient client, IMapper mapper) 
+        public EjercicioEjercicio(IOptions<List<EndpointConfiguration>> options, HttpClient client, IMapper mapper)
         {
             _endpoints = options.Value.Where
                 (w => w.Name.Equals("DefaultApi", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Endpoints.ToList();
@@ -65,6 +66,16 @@ namespace Application.Ejercicios
             var ejercicio = JsonSerializer.Deserialize<Ejercicio>(content);
 
             return Result.Success(ejercicio);
+        }
+
+        public async Task<Result> Delete(int id)
+        {
+            var result = await _ejercicio.DeleteAsync
+                (_endpoints.Where(w => w.Name.Equals("Ejercicios", StringComparison.OrdinalIgnoreCase)).FirstOrDefault().Uri + "/" + id);
+
+            return result.StatusCode == System.Net.HttpStatusCode.Accepted
+               ? Result.Success()
+               : Result.Failure(ClientErrors.NotFound());
         }
     }
 }

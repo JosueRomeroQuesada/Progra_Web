@@ -23,29 +23,29 @@ namespace Application.Machines
             return Result.Success<IList<Machine>>(_repository.GetAll());
         }
 
-        public Result<Machine> Get(string idMachine)
+        public Result<Machine> Get(string id)
         {
-            var machine = _repository.Get(s => s.Codigo == idMachine);
+            var machine = _repository.Get(s => s.Codigo == id);
 
 
             if (machine == null)
             {
-                return Result.Failure<Machine>(MachineErrors.NotFound(idMachine));
+                return Result.Failure<Machine>(MachineErrors.NotFound(id));
             }
-                return Result.Success(machine);
-            }
-        
+            return Result.Success(machine);
+        }
+
         public Result<Machine> Get(int id)
         {
             var machine = _repository.Get(s => s.Id == id);
-            
+
             if (machine is null)
             {
                 return Result.Failure<Machine>(MachineErrors.NotFound());
             }
 
-                return Result.Success(machine);
-            }
+            return Result.Success(machine);
+        }
 
         public Result Create(CreateMachine createMachine)
         {
@@ -85,4 +85,3 @@ namespace Application.Machines
         }
     }
 }
-

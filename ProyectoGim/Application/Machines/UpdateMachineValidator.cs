@@ -14,7 +14,7 @@ namespace Application.Machines
         {
             RuleFor(o => o.Nombre).Length(2, 40);
             RuleFor(o => o.Codigo).Length(2, 40);
-            
+            RuleFor(o => o.Descripcion).Length(2, 60);
         }
     }
 }

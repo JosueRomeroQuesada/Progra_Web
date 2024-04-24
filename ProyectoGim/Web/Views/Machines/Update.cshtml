@@ -1,0 +1,49 @@
+﻿@using Domain.Machines;
+@using Web.Models;
+@model UpdateMachine
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>ACTUALIZACIÓN DE LA MAQUINA</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.Id" />
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Codigo" class="form-label">Codigo</label></span>
+                            <input id="codigo" asp-for="@Model.Codigo" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Codigo" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Descripcion" class="form-label">Descripcion</label></span>
+                            <input id="descripcion" asp-for="@Model.Descripcion" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Descripcion" class="text-danger"></span>
+                        </div>
+                        
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(@Model.Id, "/machines");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

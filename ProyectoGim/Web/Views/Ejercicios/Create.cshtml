@@ -1,0 +1,56 @@
+﻿@using Domain.Ejercicios;
+@using Web.Models;
+@model CreateEjercicio
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<section class="contact-section spad">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="leave-comment">
+                    <div class="section-title text-center">
+                        <h2>AGREGAR EJERCICIO</h2>
+                    </div>
+                    <form method="post" class="section-title text-center">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.IdEjercicio" class="form-label">No. IdEjercicio</label></span>
+                            <input id="idEjercicio" asp-for="@Model.IdEjercicio" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.IdEjercicio" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Nombre" class="form-label">Nombre</label></span>
+                            <input id="nombre" asp-for="@Model.Nombre" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <span><label asp-for="@Model.Descripcion" class="form-label">Descripcion</label></span>
+                            <input id="descripcion" asp-for="@Model.Descripcion" type="text" class="form-control" />
+                            <span asp-validation-for="@Model.Descripcion" class="text-danger"></span>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <span><label asp-for="@Model.Zona" class="form-label">Zona</label></span>
+                                <input id="zona" asp-for="@Model.Zona" type="text" class="form-control" />
+                                <span asp-validation-for="@Model.Zona" class="text-danger"></span>
+                            </div>
+                        </div>
+                       
+                        @{
+                            var partialModel = SaveCancelViewModel.Create(0, "/ejercicios");
+                        }
+                        <div class="text-center" class="mb-3">
+                            <partial name="_SaveCancelButtons" model="partialModel" />
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

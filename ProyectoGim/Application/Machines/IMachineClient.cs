@@ -9,13 +9,15 @@ using System.Threading.Tasks;
 namespace Application.Machines
 {
     public interface IMachineClient
-    {  
+    {
         Task<List<MachineDTO>> List();
 
         Task<Result> Create(CreateMachine createMachine);
 
         Task<Result> Update(UpdateMachine updateMachine);
 
-        Task<Result<Machine>> Get(string idMachine); 
+        Task<Result<Machine>> Get(string id);
+
+        Task<Result> Delete(int id);
     }
 }

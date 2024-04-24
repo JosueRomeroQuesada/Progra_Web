@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JZUb1yIZRrKWwhBQbro6jdwhxT4Wl5qaR/M2s+wqeRc=",
+  "Hash": "mXYTC74NDb3KBW61XpvPlTtNnklQp75iB3YXOvdMPxI=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web\\wwwroot",
       "Source": "Web",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web.styles.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web.styles.css",
       "SourceId": "Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Web",
       "RelativePath": "Web.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
       "SourceId": "Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Web",
       "RelativePath": "Web.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\barfiller.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\barfiller.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/barfiller.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\barfiller.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\flaticon.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\flaticon.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/flaticon.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\magnific-popup.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/magnific-popup.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\owl.carousel.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\slicknav.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/slicknav.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\css\\style.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.eot",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/Flaticon.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.svg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/Flaticon.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.ttf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/Flaticon.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\Flaticon.woff2",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/Flaticon.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff2"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\about-us.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\about-us.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/about-us.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\about-us.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\banner-bg.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\banner-bg.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/banner-bg.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\banner-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\blog-5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\blog-profile.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\blog-profile.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/blog-profile.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\blog-profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/comment-1.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\comment-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/comment-2.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\comment-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\comment-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/comment-3.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\comment-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/details-1.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/details-2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/details-hero.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\quote-left.png",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\blog\\details\\quote-left.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/blog/details/quote-left.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\details\\quote-left.png"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\breadcrumb-bg.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\breadcrumb-bg.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/breadcrumb-bg.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-1.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-2.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-3.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-4.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-5.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-5.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\class-detailsl.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\class-detailsl.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-details/class-detailsl.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-details\\class-detailsl.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\trainer-profile.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\classes\\class-details\\trainer-profile.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/classes/class-details/trainer-profile.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\classes\\class-details\\trainer-profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-1.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-2.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-3.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-4.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-5.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-6.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-7.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-8.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-9.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\gallery\\gallery-9.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/gallery/gallery-9.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\gallery\\gallery-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/hero/hero-1.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\hero-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\hero\\hero-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/hero/hero-2.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero\\hero-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/letest-blog/latest-1.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\letest-blog\\latest-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/letest-blog/latest-2.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\letest-blog\\latest-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/letest-blog/latest-3.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\letest-blog\\latest-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/letest-blog/latest-4.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\letest-blog\\latest-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-5.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\letest-blog\\latest-5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/letest-blog/latest-5.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\letest-blog\\latest-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\logo.png",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/services/services-1.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\services-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/services/services-2.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\services-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/services/services-3.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\services-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\services\\services-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/services/services-4.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\services\\services-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\sidebar-banner.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\sidebar-banner.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/sidebar-banner.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\sidebar-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-1.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-3.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-4.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-5.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-5.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-6.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\team\\team-6.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/team/team-6.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\team\\team-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/testimonial/testimonial-1.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\img\\testimonial\\testimonial-2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/img/testimonial/testimonial-2.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\testimonial\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.barfiller.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.barfiller.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/jquery.barfiller.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.barfiller.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery.slicknav.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\main.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\masonry.pkgd.min.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\masonry.pkgd.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/masonry.pkgd.min.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\masonry.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\barfiller-master.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\barfiller-master.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/barfiller-master.zip",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\barfiller-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\bootstrap-4.2.1-dist.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\bootstrap-4.2.1-dist.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/bootstrap-4.2.1-dist.zip",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\bootstrap-4.2.1-dist.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\flaticon.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\flaticon.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/flaticon.zip",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\flaticon.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\font-awesome-4.7.0.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\font-awesome-4.7.0.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/font-awesome-4.7.0.zip",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\Magnific-Popup-master.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\Magnific-Popup-master.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/Magnific-Popup-master.zip",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\Magnific-Popup-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/OwlCarousel2-2.3.4.zip",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\sass.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\sass.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/sass.zip",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\sass.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\SlickNav-master.zip",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\assets\\Source\\SlickNav-master.zip",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/Source/SlickNav-master.zip",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Source\\SlickNav-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\favicon.ico",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Johan Navarro\\source\\repos\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\André\\Desktop\\Proyecto Progra Web\\Progra_Web\\ProyectoGim\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
